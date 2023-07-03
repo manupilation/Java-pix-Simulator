@@ -1,5 +1,8 @@
 package com.trybe.simuladordepix;
 
+/**
+ * Class to register return statement messages.
+ * */
 public class CodigosDeRetorno {
 
   public static final String SUCESSO = "sucesso";

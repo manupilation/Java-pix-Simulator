@@ -1,5 +1,8 @@
 package com.trybe.simuladordepix;
 
+/**
+ * Core Class to pix operations.
+ **/
 public class Principal {
 
   /**

@@ -1,5 +1,8 @@
 package com.trybe.simuladordepix;
 
+/**
+ * Class responsible for management messages related by pix operations.
+ **/
 public class Mensagens {
 
   public static final String SUCESSO =
